@@ -1,0 +1,18 @@
+img {
+  float: left;
+}
+
+.sidebar {
+  float: right;
+  background-color: yellow;
+}
+
+body {
+  background-image: url(../img/field.jpg);
+  background-repeat: no-repeat;
+  background-size: auto%;
+}
+
+.images {
+  
+}
