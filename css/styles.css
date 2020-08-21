@@ -2,6 +2,15 @@ img {
   float: left;
 }
 
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: bold;
+}
+
 .sidebar {
   float: right;
   background-color: yellow;
@@ -14,5 +23,9 @@ body {
 }
 
 .images {
-  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
 }
+
